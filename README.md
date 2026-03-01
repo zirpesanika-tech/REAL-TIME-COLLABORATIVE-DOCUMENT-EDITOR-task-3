@@ -6,3 +6,5 @@
 "MENTOR":NEELA SANTOSH
 # real-time collaborative documnet editor that allow multiple users to edit the same document simultaniously with live editor
 built using node.js and socket.io that enable multiple users to create,edit.and view document simultaniouslywith instant synchronization
+# output
+![Image](https://github.com/user-attachments/assets/e2fb710c-45aa-4039-8944-6f1b633f5985)
